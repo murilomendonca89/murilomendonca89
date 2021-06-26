@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @murilomendonca89
-- 👀 I’m interested in work as a Junior Front-end or Back-end Developer.
-- 🌱 I’m currently learning Javascritp, React, Node.Js, Typescript.
+- 👀 I’m interested in work as Front-end Developer.
+- 🌱 I’m currently working with Javascript, React.Js, Node.Js, Typescript.
 
 - Contact: https://www.linkedin.com/in/murilomendonca/
 
